@@ -31,10 +31,10 @@ public class Web_Table_Task {
 			System.out.println(b1.getText());
 		}
 		
-		Alert a = driver.switchTo().alert();
+		/*Alert a = driver.switchTo().alert();
 		a.accept();
 		a.dismiss();
-		a.sendKeys("sdfsdkfhdskjfh");
+		a.sendKeys("sdfsdkfhdskjfh");*/
 
 	}
 }
